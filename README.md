@@ -6,7 +6,7 @@ Built with a modern MERN stack (React, Node.js, Express, MongoDB), the applicati
 
 ## ✨ Key Features
 
-### 🤵 For Guests
+### 🤵 For Guests 
 * **Seamless Authentication:** Secure login via traditional JWT credentials or Google OAuth.
 * **Smart Booking Engine:** Real-time suite availability checking and conflict prevention.
 * **Heritage Member Rewards:** Automatic 5% loyalty discount applied to returning guests based on email or database ID matching.
