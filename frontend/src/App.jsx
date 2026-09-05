@@ -4,7 +4,7 @@ import { Routes, Route } from 'react-router-dom';
 // Import Providers
 import { NotificationProvider } from './context/NotificationContext.jsx';
 import { DataProvider } from './context/DataContext.jsx';
-import { AuthProvider } from './context/AuthContext.jsx';
+import { AuthProvider } from './context/AuthContext.jsx'
 
 // Import customer-facing layouts and pages
 import Layout from './components/Layout.jsx';
