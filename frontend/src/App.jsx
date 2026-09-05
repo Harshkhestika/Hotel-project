@@ -25,7 +25,7 @@ import CustomerDetailsPanel from './components/admin/CustomerDetailsPanel.jsx';
 import UpdateMenuPanel from './components/admin/UpdateMenuPanel.jsx';
 import CustomerProfile from './components/admin/CustomerProfile.jsx'; 
 
-function App() {
+function App( {
   return (
     <NotificationProvider>
       <AuthProvider>
