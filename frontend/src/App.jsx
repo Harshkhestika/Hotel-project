@@ -16,7 +16,7 @@ import Register from './pages/Register.jsx';
 import UserProfile from './pages/UserProfile.jsx'; 
 
 // Import admin layout and panels
-import AdminLayout from './components/AdminLayout.js';
+import AdminLayout from './components/AdminLayout.jsx';
 import AdminDashboard from './components/admin/AdminDashboard.jsx'; 
 import BookingRoomsPanel from './components/admin/BookingRoomsPanel.jsx';
 import OfflineBookingPanel from './components/admin/OfflineBookingPanel.jsx';
