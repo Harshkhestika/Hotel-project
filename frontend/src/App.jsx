@@ -6,7 +6,7 @@ import { NotificationProvider } from './context/NotificationContext.jsx';
 import { DataProvider } from './context/DataContext.jsx';
 import { AuthProvider } from './context/AuthContext.jsx';
 
-// Import customer-facing layouts and pages
+// Import customer-facing layouts and page
 import Layout from './components/Layout.jsx';
 import Home from './pages/Home.jsx';
 import Booking from './pages/Booking.jsx';
@@ -16,7 +16,7 @@ import Register from './pages/Register.jsx';
 import UserProfile from './pages/UserProfile.jsx'; 
 
 // Import admin layout and panels
-import AdminLayout from './components/AdminLayout.jsx';
+import AdminLayout from './components/AdminLayout.js';
 import AdminDashboard from './components/admin/AdminDashboard.jsx'; 
 import BookingRoomsPanel from './components/admin/BookingRoomsPanel.jsx';
 import OfflineBookingPanel from './components/admin/OfflineBookingPanel.jsx';
